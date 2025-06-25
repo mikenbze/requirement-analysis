@@ -48,39 +48,39 @@ It creates a common language between technical teams and non-technical stakehold
 
 # Key Activities in Requirement Analysis.
 ## 📌 1. Requirement Gathering
-    • Involves collecting initial information about the desired system from stakeholders.
-    • Focuses on what the users need, not how the system will work.
-    • Techniques include interviews, questionnaires, observations, and reviewing existing documents.
-    • Key stakeholders: clients, end-users, business analysts, and product owners.
-    • Goal: Build a high-level understanding of the project scope and user expectations.
+        • Involves collecting initial information about the desired system from stakeholders.
+        • Focuses on what the users need, not how the system will work.
+        • Techniques include interviews, questionnaires, observations, and reviewing existing documents.
+        • Key stakeholders: clients, end-users, business analysts, and product owners.
+        • Goal: Build a high-level understanding of the project scope and user expectations.
 
 ## 📌 2. Requirement Elicitation
-    • The process of actively extracting and clarifying requirements from stakeholders.
-    • Goes deeper than gathering by asking follow-up questions, resolving ambiguities, and identifying hidden needs.
-    • Techniques: brainstorming sessions, use case development, workshops, prototyping, role-playing.
-    • Encourages open communication to avoid assumptions.
-    • Goal: Discover both explicit and implicit requirements.
+        • The process of actively extracting and clarifying requirements from stakeholders.
+        • Goes deeper than gathering by asking follow-up questions, resolving ambiguities, and identifying hidden needs.
+        • Techniques: brainstorming sessions, use case development, workshops, prototyping, role-playing.
+        • Encourages open communication to avoid assumptions.
+        • Goal: Discover both explicit and implicit requirements.
 
 ## 📌 3. Requirement Documentation
-    • Converts gathered and elicited requirements into a structured, written format.
-    • Often done through a Software Requirements Specification (SRS) document.
-    • Includes functional (what the system does) and non-functional (performance, security, scalability) requirements.
-    • Should be clear, complete, unambiguous, and testable.
-    • Serves as a contract between stakeholders and developers.
+        • Converts gathered and elicited requirements into a structured, written format.
+        • Often done through a Software Requirements Specification (SRS) document.
+        • Includes functional (what the system does) and non-functional (performance, security, scalability) requirements.
+        • Should be clear, complete, unambiguous, and testable.
+        • Serves as a contract between stakeholders and developers.
 
 ## 📌 4. Requirement Analysis and Modeling
-    • Involves evaluating and organizing requirements to ensure they are feasible, complete, and consistent.
-    •	Helps identify conflicts, overlaps, or gaps in the requirements.
-    •	Modeling tools include:
-    o	Use case diagrams
-    o	Data flow diagrams (DFDs)
-    o	Entity-relationship diagrams (ERDs)
-    o	Wireframes or mockups
-    •	Goal: Translate raw requirements into structured logic and models to guide design and development.
+        • Involves evaluating and organizing requirements to ensure they are feasible, complete, and consistent.
+        • Helps identify conflicts, overlaps, or gaps in the requirements.
+        • Modeling tools include:
+        • Use case diagrams
+        • Data flow diagrams (DFDs)
+        • Entity-relationship diagrams (ERDs)
+        • Wireframes or mockups
+        • Goal: Translate raw requirements into structured logic and models to guide design and development.
 
 ## 📌 5. Requirement Validation
-    •	Ensures the documented and modeled requirements are accurate and truly reflect stakeholder needs.
-    •	Conducted through reviews, walkthroughs, and validation meetings.
-    •	Involves both technical teams and stakeholders.
-    •	Checks for correctness, completeness, consistency, and feasibility.
-    •	Goal: Get formal approval from stakeholders before moving to the design and development phase.
+        • Ensures the documented and modeled requirements are accurate and truly reflect stakeholder needs.
+        • Conducted through reviews, walkthroughs, and validation meetings.
+        • Involves both technical teams and stakeholders.
+        • Checks for correctness, completeness, consistency, and feasibility.
+        • Goal: Get formal approval from stakeholders before moving to the design and development phase.
