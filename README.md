@@ -1,1 +1,2 @@
 # Requirement Analysis in Software Development
+The purpose of this repository is to gather, clarify, and document the functional and non-functional requirements of the software so that developers, designers, and stakeholders have a clear, shared vision. This process helps prevent misunderstandings, reduces costly rework, scope creep and ensures that the final product solves the right problem effectively.
