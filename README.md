@@ -1,7 +1,7 @@
 # Requirement Analysis in Software Development
 The purpose of this stage is to gather, clarify, and document the functional and non-functional requirements of the software so that developers, designers, and stakeholders have a clear, shared vision. This process helps prevent misunderstandings, reduces costly rework, scope creep and ensures that the final product solves the right problem effectively.
 
-# What is requirement analysis
+# What is requirement analysis?
 Requirement Analysis is the process of identifying, gathering, analyzing, and documenting the needs and expectations of users and stakeholders for a software system. It is a critical phase in the Software Development Life Cycle (SDLC) because it lays the foundation for designing, building, testing, and deploying a product that meets user needs and business goals.
 
 ## 🧩 What Does Requirement Analysis Involve?
