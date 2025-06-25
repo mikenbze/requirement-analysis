@@ -24,7 +24,7 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
     – Getting stakeholder sign-off
     – Using models like use case diagrams, user stories, or wireframes to validate understanding
 
-## 🌟 Why is Requirement Analysis Important in SDLC?
+# Why is Requirement Analysis Important?
 ### ✅ 1. Ensures Project Clarity and Direction
 It defines what is to be built and aligns the development team with the client’s vision.
 ### ✅ 2. Reduces Risks and Costly Rework
