@@ -94,7 +94,8 @@ It creates a common language between technical teams and non-technical stakehold
         • Hotel managers can add/update/delete hotel properties, room types, pricing, photos, and descriptions 
         • Display room details with availability for users.
 ### 3.	Search & Filter Catalog
-        • Users can search for available rooms by destination, check-in/check-out dates, and apply filters like price, amenities, and hotel ratings 
+        • Users can search for available rooms by destination, check-in/check-out dates, and apply filters like price, 
+          amenities, and hotel ratings 
 ### 4.	Booking Placement & Management
         • Users should be able to select rooms, set dates, and complete bookings via an interactive booking flow 
         • Users can view, modify, or cancel their bookings and receive confirmations.
