@@ -136,4 +136,4 @@ of the Software Development Life Cycle (SDLC).
 | **Use Case**      | A task or function the actor can perform (e.g., "Book Room", "Login")            |
 | **Relationships** | Lines connecting actors to use cases, showing interactions                       |
 
-
+https://github.com/mikenbze/requirement-analysis/blob/main/alx-booking-uc.png
