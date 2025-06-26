@@ -135,3 +135,5 @@ of the Software Development Life Cycle (SDLC).
 | **System**        | The software or platform being modeled                                           |
 | **Use Case**      | A task or function the actor can perform (e.g., "Book Room", "Login")            |
 | **Relationships** | Lines connecting actors to use cases, showing interactions                       |
+
+![alx-booking-uc](https://github.com/user-attachments/assets/d68363a8-600d-4fec-9544-0ec24a0858c5)
