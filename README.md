@@ -120,3 +120,18 @@ It creates a common language between technical teams and non-technical stakehold
 ### 5.	Security
         • Encrypt sensitive data (personal information, payments) and implement secure authentication and authorization 
         • Comply with PCI-DSS standards for payment handling.
+
+# Use Case Diagrams.
+## What Are Use Case Diagrams?
+A Use Case Diagram is a visual modeling tool used in software engineering to describe the interactions between users (actors) and a system. 
+It shows what the system should do — not how it does it — by representing different use cases (functions or features) that the system offers.
+Use case diagrams are part of the Unified Modeling Language (UML) and are commonly used during the requirement analysis and design phases 
+of the Software Development Life Cycle (SDLC).
+
+## Key Components of a Use Case Diagram
+| Element           | Description                                                                      |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **Actor**         | A user or external system that interacts with the system (e.g., Customer, Admin) |
+| **System**        | The software or platform being modeled                                           |
+| **Use Case**      | A task or function the actor can perform (e.g., "Book Room", "Login")            |
+| **Relationships** | Lines connecting actors to use cases, showing interactions                       |
