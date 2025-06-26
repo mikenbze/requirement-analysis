@@ -137,3 +137,27 @@ of the Software Development Life Cycle (SDLC).
 | **Relationships** | Lines connecting actors to use cases, showing interactions                       |
 
 https://github.com/mikenbze/requirement-analysis/blob/main/alx-booking-uc.png
+
+# Acceptance Criteria.
+## Importance of Acceptance Criteria in Requirement Analysis
+Acceptance Criteria are the conditions that a software product must meet for a feature or requirement to be accepted by the client or end-user. They define “done” in clear, testable terms. In Requirement Analysis, acceptance criteria play a critical role by:
+✅ Ensuring clarity: They remove ambiguity by clearly stating what must happen for a feature to be considered complete.
+✅ Guiding development: Developers understand exactly what functionality they need to build.
+✅ Supporting testing: Testers can write precise test cases based on defined outcomes.
+✅ Facilitating collaboration: They align stakeholders (business, developers, QA) with a shared understanding of expectations.
+✅ Reducing rework: By defining what success looks like up front, teams avoid costly revisions later.
+
+## 🧾 Example: Acceptance Criteria for the Checkout Feature in a Booking Management System
+## Feature: Checkout Process
+## User Story:
+    ### As a guest, I want to securely complete my booking and receive confirmation after payment, so that I know my reservation is successful.
+## Acceptance Criteria:
+    ✅ The user must be logged in to access the checkout page.
+    ✅ The checkout page displays booking summary (hotel, room type, dates, price).
+    ✅ The user can enter and save billing information securely.
+    ✅ The system supports at least two payment options (e.g., credit card and mobile money).
+    ✅ Payment gateway integration must securely process the transaction.
+    ✅ Upon successful payment, the system displays a confirmation message and booking reference.
+    ✅ The system sends a confirmation email or SMS to the user.
+    ✅ The booking status in the database updates to "Confirmed".
+    ✅ If payment fails, an error message is displayed with retry instructions.
