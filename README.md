@@ -84,3 +84,38 @@ It creates a common language between technical teams and non-technical stakehold
         • Involves both technical teams and stakeholders.
         • Checks for correctness, completeness, consistency, and feasibility.
         • Goal: Get formal approval from stakeholders before moving to the design and development phase.
+
+# Types of Requirements.
+## Functional Requirements
+### 1.	User Authentication & Role Management
+        • Users must be able to register, log in, and manage their profiles.
+        • Support role-based access (e.g., Guest, Hotel Manager, Admin) 
+### 2.	Hotel & Room Listings Management
+        • Hotel managers can add/update/delete hotel properties, room types, pricing, photos, and descriptions 
+        • Display room details with availability for users.
+### 3.	Search & Filter Catalog
+        • Users can search for available rooms by destination, check-in/check-out dates, and apply filters like price, amenities, and hotel ratings 
+### 4.	Booking Placement & Management
+        • Users should be able to select rooms, set dates, and complete bookings via an interactive booking flow 
+        • Users can view, modify, or cancel their bookings and receive confirmations.
+### 5.	Payment Integration & Confirmation
+        • Integrate secure payment gateways for payment processing.
+        • After payment, users receive confirmations, and booking and payment are recorded reliably 
+### 6.	Notification System
+        • Send real-time notifications (e.g., booking confirmation, reminders) to users and hotel managers upon relevant actions 
+
+## Non-Functional Requirements
+### 1.	Performance & Latency
+        • System must quickly return search results and booking operations—ideally within 500ms 
+        • High read/write performance during peak times .
+### 2.	Scalability & Availability
+        • Handle high user traffic and booking volumes, supporting auto-scaling during peak times .
+        • Aim for >99.99% uptime .
+### 3.	Consistency & Reliability
+        • Ensure no double-bookings (strong consistency for availability checks) 
+        • Robust fault tolerance and reliable data replication 
+### 4.	Usability & Accessibility
+        • Interface should be intuitive, mobile-friendly, and accessible to users with disabilities (WCAG standards) 
+### 5.	Security
+        • Encrypt sensitive data (personal information, payments) and implement secure authentication and authorization 
+        • Comply with PCI-DSS standards for payment handling.
